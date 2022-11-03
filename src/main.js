@@ -32,6 +32,8 @@ import Card from "primevue/card";
 
 const app = createApp(App)
 
+// Just a comment for try the ssh connection
+
 app.use(createPinia())
 app.use(router)
 
