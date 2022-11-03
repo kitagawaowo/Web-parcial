@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "photoUrl": "https://torontofoodtrucks.ca/wp-content/uploads/2021/06/20210614-tuts-cooking.jpg",
+      "title": "Toronto’s newest Egyptian restaurant now also has a food truck",
+      "summary": "Tut’s food truck is the place to indulge in fresh, authentic Egyptian food in Toronto with Instagram-worthy packaging.",
+      "content": "Co-owner Amr Elmazariky explained that Tut’s food truck launched as a way to expand business and the pay-off so far has been rewarding.\n\n“We have a restaurant downtown on King and Portland. So when we heard about the Street Eats Market, we thought it was a really good opportunity to increase our reach and have another location here in Scarborough. It worked out very well and there’s been a lot of love from Scarborough so far,” says Elmazariky.",
+      "likes": 12,
+      "views": 150
+    },
+    {
+      "id": 2,
+      "photoUrl": "https://torontofoodtrucks.ca/wp-content/uploads/2021/05/Arepa_Republic.jpg",
+      "title": "How a Venezuelan family made a name for themselves in Toronto with homemade arepas",
+      "summary": "Luis and Veronika Manuel left Latin America in 2010 with the goal to create a better life for their children by bringing a taste of Venezuelan culture to Canada.",
+      "content": "The dangerous political climate in Venezuela forced the chef and chemical engineer to give up their food empire and pursue safer opportunities overseas; the idea was to bring the same business model to Canada and slowly get their foot in the door in the diverse and competitive food industry here in Toronto.\n\nThe key to their successful migration came down to more than just a good business idea— meet the arepa, that is, an authentic Venezuelan cornmeal sandwich bun that has come to be the centre-stage ingredient at the Arepa Republic’s food truck at Hillcrest Mall.\n\n“My idea was to start small at local food markets and to see if people like it, let them try our food, then to take a step forward… And that is what we did,” Luis said.",
+      "likes": 20,
+      "views": 321
+    },
+    {
+      "id": 3,
+      "photoUrl": "https://roaminghunger.com/blog/wp-content/uploads/2022/08/The-Spicy-Kitchen-Mexican-Grill-Denver-1024x481.jpg",
+      "title": "The 7 Tastiest Taco Trucks in Denver",
+      "summary": "When people think of Denver, they don’t typically associate it with delicious cuisine, but the Mile High City is a sleeper hit for dishes with a Latin-inspired twist. Rustic Mexican fare is the mainstream here, and concoctions, such as egg and chorizo-stuffed burritos, are as ubiquitous as they are delicious. It’s no wonder that some are coining the phrase “Dex-Mex” to describe the city’s unique take on Mexican food.",
+      "content": "As you might imagine, getting Mexican food from one of Denver’s many food trucks does not disappoint. From some of the best authentic Latin cuisine you’ll find to zesty fusion offerings and everything in between, there’s a lot to love about the taco truck scene in Denver—as long as you know where to look.\n\nWhether you want to indulge in a late-night taco craving or you are catering for your next big event, these 7 Denver taco trucks will elevate your taste buds and squash your hunger.",
+      "likes": 36,
+      "views": 679
+    },
+    {
+      "id": 4,
+      "photoUrl": "https://roaminghunger.com/blog/wp-content/uploads/2022/07/The-Loaded-Taco-Atlanta.jpg",
+      "title": "Top Taco Trucks in Atlanta (in 2022)",
+      "summary": "Atlanta is well-known for its rich and diverse food scene, and it’s a great place to be if you’re craving some zesty Mexican delicacies. If you’re looking for high-quality catering for your next event, plenty of Atlanta food trucks are ready and waiting to deliver dishes packed with flavor.",
+      "content": "You’ll find plenty of incredible Atlanta taco trucks serving succulent grilled meats, colorful veggie options, and tasty sides with a traditional Southern twist. The hard part is figuring out which local taco spot to try out first. Below, you can find out everything you need to know about the top 6 must-try taco trucks in Atlanta",
+      "likes": 21,
+      "views": 248
+    },
+    {
+      "id": 5,
+      "photoUrl": "https://roaminghunger.com/blog/wp-content/uploads/2022/07/Rosarito-Austin-1024x682.jpg",
+      "title": "27 Awesome Austin Food Trucks (in 2022)",
+      "summary": "Austin, Texas, is a melting pot of people and various cultures. Here, you can find live music almost every day of the week, hiking trails, a growing economy around small businesses, and food trucks around every corner.",
+      "content": "There are over 1,000 Austin food trucks and trailers (325 on our site), but we have gathered the top 27. Among this list, you will find your favorite comfort foods, such as tacos, burgers, and chicken wings, as well as fun food fusions and unique twists on fan favorites.",
+      "likes": 19,
+      "views": 175
+    },
+    {
+      "id": 6,
+      "photoUrl": "https://roaminghunger.com/blog/wp-content/uploads/2016/12/food-truck-wedding.jpg",
+      "title": "How Much Does A Food Truck Cost for an Event",
+      "summary": "These days, traditional catering is increasingly making way for a far cheaper alternative.  And as a bonus, it’s one that tends to garner a lot more excitement – food trucks.  A food truck can pull in to your event with its own kitchen, and leave without the hassle of clean-up.  And ultimately, all this adds up – by taking off.",
+      "content": "Let’s use weddings, for example.  Nation-wide the average cost per guest for catering a wedding is $68, but hiring a food truck cuts costs to $20-$25 per guest.  If there’s 168 people at your wedding (the national average), renting a food truck costs $3,360 to $4,200 – compared to $11,424 for traditional catering.\n\n\nAnd that gives you a good idea of the highest tier for food truck ordering.  Catering for events such as corporate lunches will run you even cheaper.  Any way you cut it, food trucks are an option that’ll drive your bottom line down and drive guest satisfaction up.",
+      "likes": 33,
+      "views": 589
+    }
+  ]
+}
